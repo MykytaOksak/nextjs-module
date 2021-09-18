@@ -17,6 +17,10 @@ Use a better box model (opinionated).
   box-sizing: border-box;
 }
 
+#__next {
+  @apply bg-body
+}
+
 /**
 Use a more readable tab size (opinionated).
 */
