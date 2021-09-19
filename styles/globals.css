@@ -18,7 +18,7 @@ Use a better box model (opinionated).
 }
 
 body {
-  @apply bg-body
+  background-color: black;
 }
 
 /**
