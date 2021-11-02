@@ -1,4 +1,4 @@
-Supabase + nextjs app for kyc submission and google auth
+## Supabase + nextjs app for kyc submission and google auth
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
